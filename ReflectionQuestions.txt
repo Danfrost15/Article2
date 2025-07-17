@@ -1,0 +1,20 @@
+1. What new insights did you gain while writing this article?
+
+Writing this article deepened my appreciation for how layered and interdisciplinary VR development truly is. While I had a surface-level understanding of VR systems before, diving into Unity’s XR tools revealed just how many small elements — from input systems to performance tweaks — impact the final experience. I also realized how **user comfort isn't just a feature, but a foundation** for any successful VR application. Learning about things like snap turning, teleportation, and haptic feedback reinforced how design decisions in VR are directly tied to human psychology and physiology.
+
+2. How did you decide which information was most important to include?
+
+I prioritized clarity, practicality, and beginner relevance. The article was written with the mindset of someone just stepping into VR dev, so I focused on:
+
+* they absolutely need to get started (tools, setup, essential packages)
+* What helps them get results quickly (XR Rig, interactions, teleportation)
+* What avoids early pitfalls(comfort tips, performance guidance)
+
+I chose information that bridges theory with action — helping readers not only understand VR, but start building something tangible right away.
+
+3. What challenges did you face in structuring or writing the article?
+
+The biggest challenge was balancing depth with simplicity. VR development involves technical complexity, and I had to explain it in a way that didn’t overwhelm beginners. It was also tricky to organize the content flow I had to make sure readers wouldn’t get lost in setup steps before understanding why those steps mattered.
+
+Another challenge was making sure the tone stayed encouraging and not too technical, especially in the personal insights section. I wanted beginners to feel like it’s okay to make mistakes — and that VR development, while tough, is incredibly rewarding when you stick with it.
+
