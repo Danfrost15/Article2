@@ -1,6 +1,6 @@
  🕶️ VR Development in Unity
 
-Virtual Reality (VR) is transforming how we experience digital content—from games and simulations to training and storytelling. Unity, one of the most widely-used game engines, makes VR development accessible and efficient for both beginners and professionals.
+Virtual Reality (VR) is transforming how we experience digital content, from games and simulations to training and storytelling. Unity, one of the most widely used game engines, makes VR development accessible and efficient for both beginners and professionals.
 
  🎯 Why Use Unity for VR?
 
@@ -59,13 +59,13 @@ Once you’re comfortable, explore advanced features:
 - Custom Locomotion Systems
 - Optimizations for Mobile VR (Quest, Pico)
 
-## 📚 Resources
+📚 Resources
 
 - [Unity XR Documentation](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest)
 - [Meta Quest Developer Guide](https://developer.oculus.com/)
 - [Unity Asset Store – VR Tools](https://assetstore.unity.com/)
 
-## ✅ Conclusion
+✅ Conclusion
 
 Unity makes VR development accessible, flexible, and powerful. Whether you're creating games, training apps, or immersive storytelling experiences, Unity gives you the tools to bring your ideas to life in virtual reality.
 
